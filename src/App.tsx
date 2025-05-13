@@ -17,7 +17,7 @@ function App() {
   };
 
   return (
-    <div className="relative overflow-hidden w-screen h-screen flex flex-col items-center justify-between bg-gradient-to-b from-[#006719] to-[#004d13]">
+    <div className="relative overflow-hidden w-screen h-screen flex flex-col items-center justify-between bg-gradient-to-b from-[#555555] to-[#cda860]">
       <BackgroundEffects />
       
       <div className="z-10 w-full max-w-6xl mx-auto flex flex-col items-center justify-between h-full py-4">
